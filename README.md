@@ -52,12 +52,16 @@ The project followed an iterative redesign process:
 ## Repository Contents
 
 ```text
-SolidWorks-Stapler-Redesign/
+SolidWorks-Stapler-Reengineering/
 │
-├── README.md
-├── CAD/
-│   ├── Parts/
-│   └── Assembly/
-├── Drawings/
-├── Renders/
-└── Documentation/
+├── MODIFIED STAPLER.rar
+│   └── SolidWorks files for the completed redesigned stapler
+│
+├── Modifications.pdf
+│   └── Project documentation outlining each design modification
+│
+├── SOLIDWORKS ORIGINAL STAPLER.rar
+│   └── Original SolidWorks model used as the basis for the redesign
+│
+└── README.md
+    └── Project overview, design objectives, and repository documentation
